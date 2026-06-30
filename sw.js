@@ -1,5 +1,5 @@
 // Service worker — Cliniques RLS de Jardins-Roussillon
-const CACHE = 'gmf-jr-v1';
+const CACHE = 'gmf-jr-v2';
 const CORE = [
   './',
   './index.html',
